@@ -14,7 +14,7 @@ A simple Node.js calculator app with unit tests written in Jest, designed to dem
 ## 📦 Project Structure
 
 ```
-calculatorFunc/
+addition-test-jenkins/
 ├── calculator.js          # Simple calculator logic
 ├── calculator.test.js     # Unit tests using Jest
 ├── package.json           # Project metadata and dependencies
@@ -29,8 +29,8 @@ calculatorFunc/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Nombulelo-Khumalo/calculatorFunc.git
-cd calculatorFunc
+git clone https://github.com/Nombulelo-Khumalo/addition-test-jenkins
+cd addition-test-jenkins
 ```
 
 ### 2. Install dependencies
